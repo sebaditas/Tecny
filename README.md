@@ -1,0 +1,2 @@
+# Tecny
+ReciApp
